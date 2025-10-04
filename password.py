@@ -1,4 +1,5 @@
 import string
+import requests
 
 def check_common(password):
     url = "https://gist.githubusercontent.com/richardkundl/b68afdcf68240dcff50a/raw/10k-common-passwords"
@@ -71,8 +72,12 @@ def feedback(password):
     return feedback
 
 def main():
-    password = input("Enter the password: ")
-    print(feedback(password))
+    while(1):
+      password = input("Enter the password: ")
+      print(feedback(password))
+      redo = input("\nType 'N' to Quit or 'Y' to Try a New Password? (Y/N): ")
+      if redo == 'N':
+        break
 
 if __name__ == "__main__":
     main()
