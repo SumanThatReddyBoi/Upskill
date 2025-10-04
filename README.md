@@ -14,4 +14,9 @@ This program is quite simple to understand. It converts between a given ratio un
 ### [Python] GPA Converter
 This program aims to be able to convert gpa of one scale to the other with a simplistic approach and formula. It can be used to convert scores between types for varrious purposes such as educational or regional requirements. It will convert from percentage, 4-scale, 5-scale, 4.5(Honor's scale), 10-Scale and even letter grades.
 
-###
+### [Python] Expense Tracker
+A python program that uses classes and functions to allow users to track expences, with simplistic controlls. It can be used with the terminal in a code terminal or be used in tandem with a spreadsheet/.csv for better accessibility.
+
+### [Python] Password Strength and Password Generator
+A program that has the capacity to generate password strength. By checking the strength of existing passwords and return it to the user, it aims to keep user passwords strong online. To ensure that users have the best chance of keeping their data protected and not stolen.
+
