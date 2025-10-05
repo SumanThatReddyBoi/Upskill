@@ -1,4 +1,5 @@
 # Upskill Repository
+## Basic Python Programs
 ### [Python] Number Guessing Game
 In this game the user will have to guess a randomly generated number within the given range. The system will guide them to tell them if they are higher or lower. Until the system user guesses and inputs the random number.
 
@@ -20,3 +21,5 @@ A python program that uses classes and functions to allow users to track expence
 ### [Python] Password Strength and Password Generator
 A program that has the capacity to generate password strength. By checking the strength of existing passwords and return it to the user, it aims to keep user passwords strong online. To ensure that users have the best chance of keeping their data protected and not stolen.
 
+## Python Based GPU Programs
+### [Python] 
