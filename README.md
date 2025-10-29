@@ -1,5 +1,5 @@
 # Upskill Repository
-## Basic Python Projects (7 Programs)
+## Basic Python Projects
 ### [Python-Basic] Number Guessing Game 
 In this game the user will have to guess a randomly generated number within the given range. The system will guide them to tell them if they are higher or lower. Until the system user guesses and inputs the random number.
 
@@ -21,10 +21,14 @@ A python program that uses classes and functions to allow users to track expence
 ### [Python-Basic] Password Strength and Password Generator
 A program that has the capacity to generate password strength. By checking the strength of existing passwords and return it to the user, it aims to keep user passwords strong online. To ensure that users have the best chance of keeping their data protected and not stolen.
 
-## Python Grahpics Based Projects (0 Programs)
+## Python Grahpics Based Projects
 ### [Tkinter] Dice Roll
 This program uses graphical unicode dice images to roll dice through combinations. Each dice is rolled individually when rolled. The images are then rendered to the user, and the process can be repeated 'n' number of times as required. This can be utilized particularly for games that require two dice to be rolled.
 
 ### [Tkinter] Stopwatch Timer
 This program utilizes tick speed and a built in timer to create a sense of time. It can be used as a stopwatch. The time shown on the clock is millisecond based for those presise calculations of time and ensuring that the time is represented more accurately for users. With a Hour,Minute,Second,Millisecond format the applications for this clock timer/stopwatch are seemingly unlimited.
 
+### [Tkinter] Basic Calculator
+We have all used calculators in one way or the other. Many programmers build calculators as their first program, but without the graphical interface built to use the calulator, using the calculator becomes dificult and hard. So this program uses the graphical interface along with the back end interface of a basic calculator. 
+
+##
