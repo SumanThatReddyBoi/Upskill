@@ -23,4 +23,8 @@ A program that has the capacity to generate password strength. By checking the s
 
 ## Python Grahpics Based Projects (0 Programs)
 ### [Tkinter] Dice Roll
-This program uses  
+This program uses graphical unicode dice images to roll dice through combinations. Each dice is rolled individually when rolled. The images are then rendered to the user, and the process can be repeated 'n' number of times as required. This can be utilized particularly for games that require two dice to be rolled.
+
+### [Tkinter] Stopwatch Timer
+This program utilizes tick speed and a built in timer to create a sense of time. It can be used as a stopwatch. The time shown on the clock is millisecond based for those presise calculations of time and ensuring that the time is represented more accurately for users. With a Hour,Minute,Second,Millisecond format the applications for this clock timer/stopwatch are seemingly unlimited.
+
