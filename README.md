@@ -31,3 +31,6 @@ We have all used calculators in one way or the other. Many programmers build cal
 
 ## [Python] Wordle
 The game wordle, is a replica of an existing game, that was made popular on New York Times Games App. The app, involves a player choose a word that is 5 letters long. The word they choose will then be compared to a word that the computer has choosen. The user will be given hints such as if the letters in the word they guessed are there in the word randomly choosen, and wether the position matches the location of the random word. Eventually the user either guesses the word in 6 attempts or the system reveals it. 
+
+## [Website] Daily Quote Generator
+A simple website that uses HTML, CSS and JavaScript to give the user quotes and allows them to get a new quote by pressing the space bar with a list of quotes.
