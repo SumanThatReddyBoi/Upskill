@@ -38,4 +38,5 @@ A simple website that uses HTML, CSS and JavaScript to give the user quotes and 
 ### [Website] Memory Game
 A game to improve memory. Utilizes cards built with HTML. CSS and JavaScript to play a game. It keeps track of score (as to how many tries you take to fully solve the game). It is currently themed with fruits and veggies, but can be themed to any picture based on the local API stored in the /data file. Optimized for upto 36 Cards (18 Pairs).
 
-### []
+### [Website] Random Password Generator
+Passwords have become a hastle to create these days, so this program aims to create a password between 6-20 charecters that is secure and random. This is to allow for optimum security for your needs. The program also comes with the password automatically hidden incase you are in a public place and do not want everyone to see your password, you can choose to hide it. This was built with HTML, CSS, TypeScript and JavaScript.

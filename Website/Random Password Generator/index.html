@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Random Password Generator</h1>
+        <div class="inner-user">
+            <label for="char-count" class="cc-label">Password Length: &nbsp;</label>
+            <input id="char-qty" type="number" min="6" max="20" value="8">
+        </div>
+        <div class="password"></div>
+            <button type="submit" id="gen">Generate Password</button> 
+            <button type="button" id="see">Toggle Password Visibility</button>
+            <input type="text" id="password" placeholder="Password Will Generate Here!" readonly>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
