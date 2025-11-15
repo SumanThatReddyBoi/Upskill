@@ -1,4 +1,4 @@
-# Upskill Repository Projects
+# Upskill Repository Projects (15 Projects)
 ### [Python] Number Guessing Game 
 In this game the user will have to guess a randomly generated number within the given range. The system will guide them to tell them if they are higher or lower. Until the system user guesses and inputs the random number.
 
@@ -40,3 +40,6 @@ A game to improve memory. Utilizes cards built with HTML. CSS and JavaScript to 
 
 ### [Website] Random Password Generator
 Passwords have become a hastle to create these days, so this program aims to create a password between 6-20 charecters that is secure and random. This is to allow for optimum security for your needs. The program also comes with the password automatically hidden incase you are in a public place and do not want everyone to see your password, you can choose to hide it. This was built with HTML, CSS, TypeScript and JavaScript.
+
+### [Multifile] Authenticator App
+This python program utlitizes Google Authenticator to generate and authenticate a code, using the pyotp, qrcode and time files. This app checks for a code that is randomly generated on another device to be authenticated and can be utilized for varrious security applications.
