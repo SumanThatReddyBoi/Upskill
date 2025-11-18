@@ -1,4 +1,4 @@
-# Upskill Repository Projects (15 Projects)
+# Upskill Repository Projects
 ### [Python] Number Guessing Game 
 In this game the user will have to guess a randomly generated number within the given range. The system will guide them to tell them if they are higher or lower. Until the system user guesses and inputs the random number.
 
@@ -32,14 +32,22 @@ We have all used calculators in one way or the other. Many programmers build cal
 ### [Python] Wordle
 The game wordle, is a replica of an existing game, that was made popular on New York Times Games App. The app, involves a player choose a word that is 5 letters long. The word they choose will then be compared to a word that the computer has choosen. The user will be given hints such as if the letters in the word they guessed are there in the word randomly choosen, and wether the position matches the location of the random word. Eventually the user either guesses the word in 6 attempts or the system reveals it. 
 
-### [Website] Daily Quote Generator
+### [Websites] Daily Quote Generator
 A simple website that uses HTML, CSS and JavaScript to give the user quotes and allows them to get a new quote by pressing the space bar with a list of quotes. A good motivational source of encoragement to those who require it.
 
-### [Website] Memory Game
+### [Websites] Memory Game
 A game to improve memory. Utilizes cards built with HTML. CSS and JavaScript to play a game. It keeps track of score (as to how many tries you take to fully solve the game). It is currently themed with fruits and veggies, but can be themed to any picture based on the local API stored in the /data file. Optimized for upto 36 Cards (18 Pairs).
 
-### [Website] Random Password Generator
+### [Websites] Random Password Generator
 Passwords have become a hastle to create these days, so this program aims to create a password between 6-20 charecters that is secure and random. This is to allow for optimum security for your needs. The program also comes with the password automatically hidden incase you are in a public place and do not want everyone to see your password, you can choose to hide it. This was built with HTML, CSS, TypeScript and JavaScript.
 
-### [Multifile] Authenticator App
-This python program utlitizes Google Authenticator to generate and authenticate a code, using the pyotp, qrcode and time files. This app checks for a code that is randomly generated on another device to be authenticated and can be utilized for varrious security applications.
+### [Multifile] Authenticator
+This python program utlitizes Google Authenticator to generate and authenticate a code, using the pyotp, qrcode and time files. This app checks for a code that is randomly generated on another device to be authenticated and can be utilized for varrious security applications. It is technically connectable to any authenticator app, with a scan of a QR code.
+
+### [Automation] Extention Swapping
+This is a basic python automation script which takes the files in a particular location and converts it into .bak (backup files) as a good measure instead of requiring the user to manually add/ replace the extention, over a lengthy process.
+
+### [Python] BMI Calculator
+The world has become more health concious over the past few years, and many people are concidering their BMI as a benchmark of their fitness level and a metric of their health, however, it is quite inconvient to calculate the BMI of someone manually, so I have made this program in order to ease the calulation of BMI for a person. 
+
+### [] 18.
