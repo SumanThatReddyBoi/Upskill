@@ -7,9 +7,9 @@ def email_alert(subject, body, to):
     msg['subject'] = subject
     msg['to'] = to
 
-    user = "sender@xyz.com" #changed to dummy email
+    user = "real.devtester101@gmail.com"
     msg['from'] = user
-    password = "12-digit encryption key" #changed for privacy reasons
+    password = "avgagkebiytjqnnm"
 
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
