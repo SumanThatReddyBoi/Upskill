@@ -32,13 +32,13 @@ We have all used calculators in one way or the other. Many programmers build cal
 ### [Python] Wordle
 The game wordle, is a replica of an existing game, that was made popular on New York Times Games App. The app, involves a player choose a word that is 5 letters long. The word they choose will then be compared to a word that the computer has choosen. The user will be given hints such as if the letters in the word they guessed are there in the word randomly choosen, and wether the position matches the location of the random word. Eventually the user either guesses the word in 6 attempts or the system reveals it. 
 
-### [Websites] Daily Quote Generator
+### [Multifile] Daily Quote Generator
 A simple website that uses HTML, CSS and JavaScript to give the user quotes and allows them to get a new quote by pressing the space bar with a list of quotes. A good motivational source of encoragement to those who require it.
 
-### [Websites] Memory Game
+### [Multifile] Memory Game
 A game to improve memory. Utilizes cards built with HTML. CSS and JavaScript to play a game. It keeps track of score (as to how many tries you take to fully solve the game). It is currently themed with fruits and veggies, but can be themed to any picture based on the local API stored in the /data file. Optimized for upto 36 Cards (18 Pairs).
 
-### [Websites] Random Password Generator
+### [Multifile] Random Password Generator
 Passwords have become a hastle to create these days, so this program aims to create a password between 6-20 charecters that is secure and random. This is to allow for optimum security for your needs. The program also comes with the password automatically hidden incase you are in a public place and do not want everyone to see your password, you can choose to hide it. This was built with HTML, CSS, TypeScript and JavaScript.
 
 ### [Multifile] Authenticator
@@ -50,4 +50,7 @@ This is a basic python automation script which takes the files in a particular l
 ### [Python] BMI Calculator
 The world has become more health concious over the past few years, and many people are concidering their BMI as a benchmark of their fitness level and a metric of their health, however, it is quite inconvient to calculate the BMI of someone manually, so I have made this program in order to ease the calulation of BMI for a person. 
 
-### [] 18.
+### [Python] Notification Sender
+This program uses a connection to an smtp server in order to send email's, and has varrious applications such as being used to test connections, server issues, and varrious notifier issues and tests. Can be integrated with other use cases as well.
+
+### [] 19.
