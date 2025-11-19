@@ -53,4 +53,5 @@ The world has become more health concious over the past few years, and many peop
 ### [Python] Notification Sender
 This program uses a connection to an smtp server in order to send email's, and has varrious applications such as being used to test connections, server issues, and varrious notifier issues and tests. Can be integrated with other use cases as well.
 
-### [] 19.
+### [Case-Study] Not Just a To Do List
+This project started out as just a simple todo list program. It was something that had arrisen as a problem for me. I had so many things to do and I thought I would build something to help me out. But as I continued to develop, I got new feature ideas, and eventually I turned the project into a multi-feature program that I looked back on during my case study, to compare other similar apps.
