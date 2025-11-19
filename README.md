@@ -44,7 +44,7 @@ Passwords have become a hastle to create these days, so this program aims to cre
 ### [Multifile] Authenticator
 This python program utlitizes Google Authenticator to generate and authenticate a code, using the pyotp, qrcode and time files. This app checks for a code that is randomly generated on another device to be authenticated and can be utilized for varrious security applications. It is technically connectable to any authenticator app, with a scan of a QR code.
 
-### [Automation] Extention Swapping
+### [Multifile] Extention Swapping
 This is a basic python automation script which takes the files in a particular location and converts it into .bak (backup files) as a good measure instead of requiring the user to manually add/ replace the extention, over a lengthy process.
 
 ### [Python] BMI Calculator
@@ -53,5 +53,5 @@ The world has become more health concious over the past few years, and many peop
 ### [Python] Notification Sender
 This program uses a connection to an smtp server in order to send email's, and has varrious applications such as being used to test connections, server issues, and varrious notifier issues and tests. Can be integrated with other use cases as well.
 
-### [Case-Study] Not Just a To Do List
+### [Multifile] Not Just a To Do List
 This project started out as just a simple todo list program. It was something that had arrisen as a problem for me. I had so many things to do and I thought I would build something to help me out. But as I continued to develop, I got new feature ideas, and eventually I turned the project into a multi-feature program. It has a email integration, an integration with Tkinter for front end, and a built in menu to execute tasks. 
